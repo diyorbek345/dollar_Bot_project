@@ -43,5 +43,5 @@ html_text(purcahse_bank_price)
 html_text(cell_bank_name)
 html_text(cell_bank_price)
 
-data_in_dict(purchase_bank_name,purcahse_bank_price)
-data_in_dict(cell_bank_name,cell_bank_price)
+purchase_data = data_in_dict(purchase_bank_name,purcahse_bank_price)
+cell_data =data_in_dict(cell_bank_name,cell_bank_price)
